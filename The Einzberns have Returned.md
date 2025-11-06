@@ -123,3 +123,25 @@ Both fighters had lost their smiles. What remained in the icy blue eyes of the c
 
 ---
 
+Toren stepped over the discarded spear, holding his own ahead of him in a white-knuckled grip, and trying not to blind himself with his lantern. Slowly he stepped forwards, careful not to let his mind run away with panic. The light from the street ended just as the space between buildings ahead grew too tight to ride a horse down, but with his lantern slowly dispelling the darkness, Toren began to make out a small smear of crimson lining the stones of the ground and wall ahead.
+
+The dark alleyway surrounding him threatened to press the air from his lungs as realisation hit. The shadows that would not be dispelled seemed to almost crawl along the ground, reaching for his legs to drag him to his death. A void of a path lay ahead like a black sea on a moonless night, inviting a cold and uncaring end.
+
+He was not going to die like a fool. Whoever the spear belonged to was already dead, and there is no valour in dying trying to save a dead man.
+
+Spear raised to defend himself, Toren began to back out of the alleyway, away from the death that lay beyond the lantern. Back towards safety. Towards the light of his friends. Towards backup. Life. Once he had reached a distance where he was sure nothing could leap out at him from the shadows, Toren spun and ran.
+
+He got two steps away before he heard the whimper.
+
+He froze. And he knew it was not his mind playing tricks on him. He heard it again. Something between an animal whining in pain and a man begging for mercy. The sounds a person makes when thye face death, their only chance of escape being reduced to prayer.
+
+But whoever that fallen spear belonged to had another chance. It was Toren. But he had to act fast.
+
+He glanced in the direction of the inn, and steeled himself for the mistake he was about to make. Praying that nothing really awaited him in the darkness ahead, Toren turned around.
+
+>[!Note]
+>Do I make this longer or start a new perspective
+>Probably need to lengthen this too
+
+---
+

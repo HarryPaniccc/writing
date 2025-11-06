@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 237.5,
+    "collapsed": true
   },
   "right": {
     "id": "82b1bb4fb46344cd",
@@ -169,6 +170,7 @@
   },
   "active": "d34bfdbb7be4eb73",
   "lastOpenFiles": [
+    "The Einzberns have Returned.md",
     "Vanguard Writing.md",
     "Welcome.md"
   ]
