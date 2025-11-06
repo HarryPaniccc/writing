@@ -7,8 +7,6 @@ tags:
 
 Sirkonos had been too quiet for too long. His mom told Gunter that the sheriff's men were expected back with their outriders any day now, that the kingdom had just been holding its breath, but Gunter thought that it must have passed out by now — its boots stolen and coin purse left an empty sack at the side of the road, ignored by passerbys with upturned noses. No one cared for Sirkonos anymore. At least Gunter didn't.
 
-test
-
 >[!Note]
 >I suspect more descriptions of surroundings around here will fit. The fireflies is a big jump
 
