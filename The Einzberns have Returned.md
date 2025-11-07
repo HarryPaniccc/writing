@@ -33,7 +33,7 @@ An hour into Gunter's mugs and passing between various different groups, bar han
 
 The bouts began. The sound of fist-on-flesh was lost amidst the shouts from the onlookers. The first fights of the evening were to warmup the crowd, and Gaelen said it was good luck to wet the sand before the larger fights. Gunter always paid close attention to these, despite their low stakes. He had made a whole mint by keeping his eyes on the promising newcomers. It had been a shame when Gaelen had been found in a ditch with a hole in his stomach the previous month...
 
-The sound of a body hitting the ground shook Gunter from his stupor. The cheers that followed banished the feeling in his gut. The loss of Gaelen was still fresh in Gunter's mind, and Gaelen was a fine boxer, but new to town and not that wise. So what if he went out alone? There were other youths looking to test their metal in the ring and keep those who remained cheering a while longer.
+The sound of a body hitting the ground shook Gunter from his stupor. The cheers that followed banished the feeling in his gut. The loss of Gaelen was still fresh in Gunter's mind, and Gaelen was a fine boxer, but new to town and unwilling to listen to the warnings. So what if he went out alone? There were other youths looking to test their metal in the ring and keep those who remained cheering a while longer.
 
 Silver was passed around as cold water was washed over the victor of the last fight, and Gunter pocketed a few pieces as the loser was seen to by the town's surgeon in case of any real injury. As conversation threatened to steal the crowd from his grasp, the ringmaster, Roahn, tightened his grip and announced the next bout.
 
@@ -47,14 +47,14 @@ The crowd replied with a roar that was quelled by a raise of the ringmaster's sp
 
 As Roahn stoked the crowd, two men found their feet at the edge of the room. The older of the two — the Bull, the club members called him — was as wide as two men and had the strength of three. People often said that the mason's son had learned to _eat_ the stone he worked with, and that was what had given him his undefeated run in the ring. No matter who faced him, and no matter how many times that nose had been broken, he simply never went down.
 
-Roahn announced his opponent first which gave the Bull a moment to analyze what he would be facing. He liked to think his victories were in part due to his opponents thinking him dull, but his short stint under the previous sheriff taught him that sizing his enemy up was half of any fight.
+Roahn announced his opponent first which gave the Bull a moment to analyse what he would be facing. He was sure that his victorious run was in part due to his opponents thinking him dull, but his short stint under the previous sheriff taught him that sizing his enemy up was half of any fight. Unfortunately, he did not know much about the challenger.
 
-The younger man was shorter than him, with shorter reach and uncut black, dusty hair that reached just below his chin. He had an air of dirtiness about him, and the Bull would have thought him a beggar if his body was not cut from steel and sewn with scars. Twice before he had seen this boy fight. He was scrappy, but the men he struck usually did not want to stand up again. Personal hygiene aside — the boy even used too much chalk on his hands — the Bull was hoping for an attrition tonight, especially after the melees he had watched so far. There was enough blood on the ground to turn the sand nearly to mud. He could even taste iron on the air.
+The younger man was shorter than him, with a shorter reach and uncut black, dusty hair that reached just below his chin. He had an air of dirtiness about him, and the Bull would have thought him a beggar if his body was not cut from steel and sewn with scars. Twice before he had seen this boy fight. He was scrappy, but the men he struck usually did not want to stand up again. Personal hygiene aside — the boy even used too much chalk on his hands — the Bull was hoping for an attrition tonight, especially after the melees he had watched so far. There was enough blood on the ground to turn the sand nearly to mud. He could even taste iron on the air.
 
 >[!Note]
 >Use the opportunity to introduce Roahn more than just his hair colour
 
-The brown haired ringmaster did well in introducing the younger man. He was from Keldmire, the walled city South West of Mount Ethris in the middle of Sirkonos. The word out of Keldmire recently had been tales of horror. Gangs seizing the city, the previous lords and sheriff being put to death, and the Kronesguard not doing a thing about it. It was likely the Bull's opponent was a deserter, unwilling to sit by wearing the mark of the King's justice on your shoulder all the while doing nothing as monsters seized your home. Desertion was an executable offense, the Kronesguard is a tightly run military, but the Bull could respect a man willing to abandon a path of false ideals and try to find his own way in a world run by blind men.
+The rat-like ringmaster did well in introducing the younger man, mostly summarising what The Bull already knew. He was from Keldmire, the walled city South West of Mount Ethris in the central Sirkonos. The word out of Keldmire recently had been tales of horror. Gangs seizing the city, the previous lords and sheriff being put to death, and the Kronesguard not doing a thing about it. It was likely the Bull's opponent was a deserter, unwilling to sit by wearing the mark of the King's justice on your shoulder all the while doing nothing as monsters seized your home. Desertion was an executable offense, the Kronesguard is a tightly run military, but the Bull could respect a man willing to abandon a path of false ideals and try to find his own way in a world run by blind men.
 
 He waited as Roahn fed the crowd what he could to draw every eye in the room. A silence formed where there was once chatter from those disinterested in fights other than the main event, and the Bull drank in that silence. It felt lately that the only time he could think was while the crowd was being worked up. There was a clarity in the moment before stepping before his neighbours, before he stopped being Bhuren the stonemason and became the Bull of Novest. The crowds' eyes will belong to him in a minute, but for now, he was the one looking at them.
 
@@ -62,7 +62,7 @@ He saw the crowd before him, and in the dim candlelight, Bhuren saw what was mis
 
 Roahn finished announcing the Bull's opponent, and the lad had begun dancing from one foot to the next. He was clearly anxious about the fight, constantly glancing to the crowd. He seemed to be making a point of not moving his hair from his face though. That didn't mean he would be underestimated. Sometimes fear is all it takes to bring out the real killer within someone.
 
-As the ringmaster began to announce the arrival of the champion, the Bull made his way towards the center of the room. Slowly the crowd parted before him like a vast gate being opened. A pathway to the bloody sandpit ahead seemed to grow with each step the Bull took. Roahn's voice, straining to be heard, became lost in the swell of anticipation from the crowd and the buzz that grew to meet it within the Bull's head. He flexed his fingers and made fists, chalk trailing behind him. He cracked his neck, more for the crowd than for himself, and stretched his shoulders showing his bear chested bulk to his youthful opponent. He planted himself in the ring, boots dug into the pulp of blood and sand, arms raised to the sides of his head, and a broken-toothed grin spread across his face. His friends could forget their troubles for a while longer. He had work to do. The younger opponent mirrored his stance, the excess of chalk making his hands white and falling to the ground in flakes like winter snow.
+As the ringmaster began to announce the arrival of the champion, the Bull made his way towards the centre of the room. Slowly the crowd parted before him, like a vast gate being opened. The pathway to the bloody sandpit ahead seemed to grow with each step the Bull took. Roahn's voice, straining to be heard, became lost in the swell of anticipation from the crowd and the buzz that grew to meet it within the Bull's head. He flexed his fingers and made fists, chalk trailing behind him. He cracked his neck, more for the crowd than for himself, and stretched his shoulders, showing his bear-chested bulk to his youthful opponent in a display of intimidation and showmanship. He planted himself in the ring, boots dug into the pulp of blood and sand, arms raised to the sides of his head, and a broken-toothed grin spread across his face. His friends could forget their troubles for a while longer. He had work to do. The challenger  mirrored his stance, the excess of chalk making his hands white and falling to the ground in flakes like winter snow.
 
 They began.
 
@@ -144,4 +144,9 @@ He glanced in the direction of the inn, and steeled himself for the mistake he w
 >Probably need to lengthen this too
 
 ---
+
+
+---
+>[!Note]
+>Jumping ahead a bit here
 
