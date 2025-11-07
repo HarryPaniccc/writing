@@ -72,18 +72,18 @@ The stone streets stretched around the old wooden buildings of the town square l
 
 Toren hated guard duty. When he was a boy he always imagined it to be glamorous. Holding a spear against the darkness beyond the walls, daring whatever prowled the marshes surrounding Novest to try and take what he protected. Like the heroes of the stories he had listened to growing up. Legends like the Einzbern monster hunters with their blades of sunlight, the Renslayer atop his dragon battling the enemies of the kingdom, and the warrior dwarves of Steinwalde. Now Toren knew the truth. There was no glory waiting for him out in the darkness. Just a death indifferent to everything about him but the meat on his bones.
 
-He completed his round for the hour and returned to the square where the rest of the guards had gathered. Though they were not permitted to join in on the fighting club while on duty, it helped that the sounds of people could be heard from a good hundred feet away from the inn. Toren checked in on the other guardsmen who were delaying their patrols or betting on a hand of cards. He took a drink from the water barrel, chatting with pretty girl who had come to deliver the group some warm stew, and did his best not to pay any mind to the dark building at the end of the road.
+He completed his round for the hour and returned to the square where the rest of the guards had gathered. Though they were not permitted to join in on the fighting club while on duty, it helped that the sounds of people could be heard from a good hundred feet away from the inn. Toren checked in on the other guardsmen who were delaying their patrols or betting on a hand of cards. He took a drink from the water barrel, chatting with the pretty girl who had come to deliver the group some warm stew, and did his best not to pay any mind to the dark building at the end of the road.
 
-Every town in Sirkonos had a ghost house or an ancient barrow from which legends emerged, but few were actually haunted, and fewer still were young enough that people knew what the buildings were actually used for before they became folklore. The dark townhouse at the end of the main road of Novest was one of those few cases. A few months ago the remains of the Taurig family had been found after the sheriff had ordered the door knocked down. The night before, the neighbours had heard what they had called the sounds of someone butchering an animal, but had thought nothing of it until the scent of decay had spread along the street by the noon sun. Toren didn't have the displeasure of seeing the remains, but he knew the men who did, and they almost burned the building down. Some of them still think they should.
+Every town in Sirkonos had a ghost house or an ancient barrow from which legends emerged, but few were actually haunted, and fewer still were young enough that people knew what the buildings were actually used for before they became folklore. The dark townhouse down the main road of Novest was one of those few cases. A few months ago, the remains of the Taurig family had been found after the sheriff had ordered the door knocked down. The night before, the neighbours had heard what they had called the sounds of someone butchering an animal, but had thought nothing of it until the scent of decay had spread along the street by the noon sun. Toren didn't have the displeasure of seeing the remains, but he knew the men who did, and they almost burned the building down. Some of them still think they should.
 
 >[!Note]
 >Edit the paragraph below I think. "Thats not the worst of it" is kinda lame
 
-The worst part of it was why Toren was so weary of the house. While on guard later in the week, he had seen the Taurig daughter — Selene was her name — walk down the road and into the marsh, apparently completely healthy, despite having reportedly had most of her organs removed. The two voices within him disagreed that night. The wisdom that kept his sidesword sheathed had told him to ignore it and live another day. The hopeful child that he used to be called him a coward.
+And then, while on guard later in the week, he had seen the Taurig daughter — Selene was her name — walk down the road and into the marsh, apparently completely healthy, despite having had most of her organs removed just a few days prior, and her body buried alongside her family. The two voices within him disagreed that night. The wisdom that kept his sidesword sheathed had told him to ignore it and live another day. The hopeful child that he used to be called him a coward. He wasn't sure which one he believed.
 
-After three sets of guards had joined and left the courtyard it was time for Toren to begin his next round. He banished the thoughts of ghost stories and pointedly made his way in the direction away from the Taurig residence, lantern held ahead of him so that he could find his way, despite the familiarity of the streets. The silence that accompanied him did not do anything to help calm his nerves. Everyone in Novest knew not to go out alone unarmed after the sun set, and his spear gave him little reassurance as he walked between buildings abandoned for the evening's brawls.
+After three sets of guards had joined and left the courtyard it was time for Toren to begin his next round. He banished the thoughts of ghost stories and pointedly made his way in the direction away from the Taurig residence, lantern held ahead of him so that he was sure he could not get lost, despite the familiarity of the streets. The silence that accompanied him did not do anything to help calm his nerves. Everyone in Novest knew not to go out alone unarmed after the sun set, and his spear gave him little reassurance as he walked between buildings abandoned for the evening's brawls.
 
-A scream did not pierce the night. Blood had not been sprayed across the walls of the alleyways he passed. Men Toren grew up with did not die painful and cruel deaths. And yet he was afraid. Every shadow threatened to be a hag of the marshes, come to drown him in mud and the weight of his regrets. Every noise in the distance was a shade hungering for his soul and for vengeance for disturbing their rest. Each stick in the road was a spear, abandoned by one of his fallen comrades as they were stolen by the night...
+A scream did not pierce the night. Blood had not been sprayed across the walls of the buildings he passed. Men Toren grew up with did not die painful and cruel deaths. And yet he was afraid. Every shadow threatened to be a hag of the marshes, come to drown him in mud and the weight of his regrets. Every noise in the distance was a shade hungering for his soul and for vengeance for disturbing their rest. Each stick in the road was a spear, abandoned by one of his fallen comrades as they were stolen by the night...
 
 Wait, that _is_ a spear lying in that alleyway.
 
@@ -123,7 +123,11 @@ Both fighters had lost their smiles. What remained in the icy blue eyes of the c
 
 ---
 
-Toren stepped over the discarded spear, holding his own ahead of him in a white-knuckled grip, and trying not to blind himself with his lantern. Slowly he stepped forwards, careful not to let his mind run away with panic. The light from the street ended just as the space between buildings ahead grew too tight to ride a horse down, but with his lantern slowly dispelling the darkness, Toren began to make out a small smear of crimson lining the stones of the ground and wall ahead.
+Toren stepped over the discarded spear, holding his own ahead of him in a white-knuckled grip, and trying not to blind himself with his lantern. 
+
+"Hello?", he called into the night air, slowly stepping forwards. "Is anyone out there?"
+
+His breath shaky, he peered around the street, careful not to let his mind run away with panic. The light from the lamp ended just as the space between buildings ahead grew too tight to ride a horse down, but with his lantern slowly dispelling the darkness, Toren began to make out a small smear of crimson lining the stones of the ground and wall ahead.
 
 The dark alleyway surrounding him threatened to press the air from his lungs as realisation hit. The shadows that would not be dispelled seemed to almost crawl along the ground, reaching for his legs to drag him to his death. A void of a path lay ahead like a black sea on a moonless night, inviting a cold and uncaring end.
 
@@ -139,14 +143,22 @@ But whoever that fallen spear belonged to had another chance. It was Toren. But 
 
 He glanced in the direction of the inn, and steeled himself for the mistake he was about to make. Praying that nothing really awaited him in the darkness ahead, Toren turned around.
 
->[!Note]
->Do I make this longer or start a new perspective
->Probably need to lengthen this too
-
 ---
 
 
 ---
 >[!Note]
 >Jumping ahead a bit here
+
+His hair was beginning to obscure his vision, but he could not afford to wipe it away. Sweat mixed with coal was slowly dripping down his face, but in the imperfect candlelight of the fighting ring he hoped it would not draw the attention of the spectators. His hand had started to lose its chalk coating, so he had switched to knees and elbows. He had taken a strike on the chin that he had allowed to look a little bit _too_ good, but he could adapt, so he adjusted his step to be more aggressive and encourage more body shots.
+
+All things considered, the challenger was feeling very good about how the evening had gone so far. Then he took a fist to the teeth.
+
+For not the first time in the last thirty minutes, he found himself knocked to the ground, wondering if "The Bull" of Novest was _really_ a stonemason, or if he just spent time around rocks because they were related. Nevertheless, he had been hit harder before.
+
+Spitting blood, he raised himself up on his right hand, wobbling genuinely that time, and reset his stance as the crowd roared. *No more underestimating this man's speed. You're still in this for a while longer.*
+
+The scent of blood was everywhere now, overwhelming the challenger's senses.
+
+---
 
