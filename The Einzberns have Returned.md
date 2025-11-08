@@ -2,7 +2,7 @@
 tags:
   - Short
 ---
->[!Note]
+ >[!Note]
 >Maybe put a short ominous prelude here.
 
 Sirkonos had been too quiet for too long. His mom told Gunter that the sheriff's men were expected back with their outriders any day now, that the kingdom had just been holding its breath, but Gunter thought that it must have passed out by now — its boots stolen and coin purse left an empty sack at the side of the road, ignored by passerbys with upturned noses. No one cared for Sirkonos anymore. At least Gunter didn't.
@@ -150,15 +150,24 @@ He glanced in the direction of the inn, and steeled himself for the mistake he w
 >[!Note]
 >Jumping ahead a bit here
 
-His hair was beginning to obscure his vision, but he could not afford to wipe it away. Sweat mixed with coal was slowly dripping down his face, but in the imperfect candlelight of the fighting ring he hoped it would not draw the attention of the spectators. His hand had started to lose its chalk coating, so he had switched to knees and elbows. He had taken a strike on the chin that he had allowed to look a little bit _too_ good, but he could adapt, so he adjusted his step to be more aggressive and encourage more body shots.
+His hair was beginning to obscure his vision, but he could not afford to wipe it away. Sweat mixed with coal was slowly dripping down his face, but in the imperfect candlelight of the fighting ring he hoped the black lines it left would go unnoticed by of the spectators. His hand had started to lose its chalk coating, so he had switched to knees and elbows. He had taken a strike on the chin that he had allowed to look a little bit _too_ good, but he could adapt, so he adjusted his step to be more aggressive and encourage more body shots.
 
-All things considered, the challenger was feeling very good about how the evening had gone so far. Then he took a fist to the teeth.
+All things considered, the challenger was feeling very good about how the evening had gone so far.
 
-For not the first time in the last thirty minutes, he found himself knocked to the ground, wondering if "The Bull" of Novest was _really_ a stonemason, or if he just spent time around rocks because they were related. Nevertheless, he had been hit harder before.
+His opponent, the "Bull" of Novest, was putting on an admirable contest, but the challenger could tell that he was getting frustrated. He could no longer afford to soak up anymore damage, so he focussed on evasiveness. He fended off a jab, slipped under a right cross, sidestepped an uppercut. Everything his opponent threw he had seen before, and everything he had seen before he had a solution for.
+
+As capable as his opponent was, the challenger was in another league, but he had to let the Bull think he had a chance. And he had to keep the crowd's interest.
+
+So he went on the offensive, measuring space with a few jabs at nothing with his left hand, eventually closing in with an elbow to the side, and cracking his fist against the Bull's chin right as he doubled over. The ox of a man took it in his stride, and his hand struck out like a snake, fist coiling around the challenger's raised forearm as he clenched against a strike that never came. Now that the Bull had a hold of him, he could not slip the punch that was coming his way. A fist rocked his brain inside his skull, and his mind went fuzzy for a moment.
+
+For not the first time in the last thirty minutes, he found himself knocked to the ground, wondering if "The Bull" of Novest was _really_ a stonemason, or if he just spent time around rocks because they were distant cousins of some kind. Nevertheless, he had been hit harder before, and he decided that the Bull could take a few more strikes himself.
 
 Spitting blood, he raised himself up on his right hand, wobbling genuinely that time, and reset his stance as the crowd roared. *No more underestimating this man's speed. You're still in this for a while longer.*
 
-The scent of blood was everywhere now, overwhelming the challenger's senses.
+The scent of iron was everywhere by now, overwhelming the challenger's senses. His opponent's mouth was covered by a waterfall of crimson from the broken nose the challenger had awarded him, and the numerous cuts on his body were only adding to it. He couldn't imagine how he looked right now, but he ran his tongue over his split lip and ignored the blood streaming out of his left eyebrow.
+
+>[!Note]
+>Section (and above paragraph) must end differently. Add a bit here
 
 ---
 
