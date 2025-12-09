@@ -2,6 +2,7 @@
 tags:
   - Short
 ---
+# Gunter 1
  >[!Note]
 >Maybe put a short ominous prelude here.
 
@@ -37,14 +38,14 @@ The sound of a body hitting the ground shook Gunter from his stupor. The cheers 
 
 Silver was passed around as cold water was washed over the victor of the last fight, and Gunter pocketed a few pieces as the loser was seen to by the town's surgeon in case of any real injury. As conversation threatened to steal the crowd from his grasp, the ringmaster, Roahn, tightened his grip and announced the next bout.
 
-"There it is friends," Roahn called to the crowd. "I would not have bet on such a grudge match between two seasoned fighters, but when a traveler hailing all the way from Pyleas tells you he wishes to test his mettle against an up-and-coming, you do not ignore him, _especially_ when he is built like that!"
+There it is friends," Roahn called to the crowd. "I would not have bet on such a grudge match between two seasoned fighters, but when a traveler hailing all the way from Pyleas tells you he wishes to test his mettle against an up-and-coming, you do not ignore him, _especially_ when he is built like that!"
 
 The crowd replied with a roar that was quelled by a raise of the ringmaster's spindly hand.
 
 "I am glad you see it as enthusiastically as I do! That being said, as fun as surprises are, I would wager that most of you are here for a different event."
 
 ---
-
+# Bull 1
 As Roahn stoked the crowd, two men found their feet at the edge of the room. The older of the two — the Bull, the club members called him — was as wide as two men and had the strength of three. People often said that the mason's son had learned to _eat_ the stone he worked with, and that was what had given him his undefeated run in the ring. No matter who faced him, and no matter how many times that nose had been broken, he simply never went down.
 
 Roahn announced his opponent first which gave the Bull a moment to analyse what he would be facing. He was sure that his victorious run was in part due to his opponents thinking him dull, but his short stint under the previous sheriff taught him that sizing his enemy up was half of any fight. Unfortunately, he did not know much about the challenger.
@@ -67,7 +68,7 @@ As the ringmaster began to announce the arrival of the champion, the Bull made h
 They began.
 
 ---
-
+# Toren 1
 The stone streets stretched around the old wooden buildings of the town square like cracks on a dry elbow. The lantern Toren carried to illuminate the late spring night attracted a handful of marsh fireflies as he walked his rounds. Every few minutes he passed by another guard wearing ununiformed gambeson and holding one of the spears that were shared among the sheriff's men. Toren was allowed to wear his father's sidesword, but had never drawn it with the intent of using it. That was how its previous owner had died, and Toren liked to think himself wiser than that.
 
 Toren hated guard duty. When he was a boy he always imagined it to be glamorous. Holding a spear against the darkness beyond the walls, daring whatever prowled the marshes surrounding Novest to try and take what he protected. Like the heroes of the stories he had listened to growing up. Legends like the Einzbern monster hunters with their blades of sunlight, the Renslayer atop his dragon battling the enemies of the kingdom, and the warrior dwarves of Steinwalde. Now Toren knew the truth. There was no glory waiting for him out in the darkness. Just a death indifferent to everything about him but the meat on his bones.
@@ -88,7 +89,7 @@ A scream did not pierce the night. Blood had not been sprayed across the walls o
 Wait, that _is_ a spear lying in that alleyway.
 
 ---
-
+# Roahn 1
 Roahn was a man of realities. He did not believe in stories and he did not believe in luck. He believed in things he could touch and count, and of the things that he believed in, Roahn believed most deeply in silver.
 
 Opportunity presented itself everywhere, even in backwater, forgotten tradesman towns like Novest. One merely needed an eye for spotting opportunities that aligned with one's skillset. And what Roahn was good at, was manipulating attention.
@@ -122,7 +123,7 @@ No, this was no mere deserter. Roahn watched as the challenger wiped his first b
 Both fighters had lost their smiles. What remained in the icy blue eyes of the challenger sent a shiver down Roahn's spine. Those were the eyes of a man who had killed before, and who looked as though he wanted to kill again.
 
 ---
-
+# Toren 2
 Toren stepped over the discarded spear, holding his own ahead of him in a white-knuckled grip, and trying not to blind himself with his lantern. 
 
 "Hello?", he called into the night air, slowly stepping forwards. "Is anyone out there?"
@@ -149,16 +150,16 @@ He glanced in the direction of the inn, and steeled himself for the mistake he w
 ---
 >[!Note]
 >Jumping ahead a bit here
-
-His hair was beginning to obscure his vision, but he could not afford to wipe it away. Sweat mixed with coal was slowly dripping down his face, but in the imperfect candlelight of the fighting ring he hoped the black lines it left would go unnoticed by of the spectators. His hand had started to lose its chalk coating, so he had switched to knees and elbows. He had taken a strike on the chin that he had allowed to look a little bit _too_ good, but he could adapt, so he adjusted his step to be more aggressive and encourage more body shots.
+# Challenger 1
+His hair was beginning to obscure his vision, but he could not afford to wipe it away. Sweat mixed with coal was slowly dripping down his face, but in the imperfect candlelight of the fighting ring he hoped the black lines it left would go unnoticed by of the spectators. His hand had started to lose its chalk coating, so he had switched to knees and elbows. He had taken a strike on the chin that he had allowed to look a little _too_ good, but he could adapt, so he adjusted his step to be more aggressive and encourage more body shots.
 
 All things considered, the challenger was feeling very good about how the evening had gone so far.
 
-His opponent, the "Bull" of Novest, was putting on an admirable contest, but the challenger could tell that he was getting frustrated. He could no longer afford to soak up anymore damage, so he focussed on evasiveness. He fended off a jab, slipped under a right cross, sidestepped an uppercut. Everything his opponent threw he had seen before, and everything he had seen before he had a solution for.
+His opponent, the "Bull" of Novest, was putting on an admirable contest, but the challenger could tell that he was getting frustrated. He could no longer afford to soak up any more damage, so he focussed on evasiveness. He fended off a jab, slipped under a right cross, sidestepped an uppercut. Everything his opponent threw he had seen before, and everything he had seen before he could counter.
 
 As capable as his opponent was, the challenger was in another league, but he had to let the Bull think he had a chance. And he had to keep the crowd's interest.
 
-So he went on the offensive, measuring space with a few jabs at nothing with his left hand, eventually closing in with an elbow to the side, and cracking his fist against the Bull's chin right as he doubled over. The ox of a man took it in his stride, and his hand struck out like a snake, fist coiling around the challenger's raised forearm as he clenched against a strike that never came. Now that the Bull had a hold of him, he could not slip the punch that was coming his way. A fist rocked his brain inside his skull, and his mind went fuzzy for a moment.
+So he went on the offensive, measuring space with a few jabs at air with his left hand, eventually closing in with an elbow to the side, and cracking his fist against the Bull's chin right as he doubled over. The ox of a man took it in his stride, and his hand struck out like a snake, fist coiling around the challenger's raised forearm as he clenched against a strike that never came. Now that the Bull had a hold of him, he could not slip the punch that was coming his way. A fist rocked his brain inside his skull, and his mind went fuzzy for a moment.
 
 For not the first time in the last thirty minutes, he found himself knocked to the ground, wondering if "The Bull" of Novest was _really_ a stonemason, or if he just spent time around rocks because they were distant cousins of some kind. Nevertheless, he had been hit harder before, and he decided that the Bull could take a few more strikes himself.
 
@@ -166,8 +167,70 @@ Spitting blood, he raised himself up on his right hand, wobbling genuinely that 
 
 The scent of iron was everywhere by now, overwhelming the challenger's senses. His opponent's mouth was covered by a waterfall of crimson from the broken nose the challenger had awarded him, and the numerous cuts on his body were only adding to it. He couldn't imagine how he looked right now, but he ran his tongue over his split lip and ignored the blood streaming out of his left eyebrow.
 
+The challenger had learned a long time ago that one eye of vision was more than enough.
+
 >[!Note]
->Section (and above paragraph) must end differently. Add a bit here
+>Section (and above paragraph) might need to end differently. Ask readers what they think.
 
 ---
+# Toren 3
+The gates of darkness both opened ahead of him and closed behind him as Toren strode towards the cry in the night. Despite the cool spring breeze, sweat stuck his shirt to his back. He felt his hand should be bleeding with how tightly he gripped his spear. But he had made his choice. Someone needed to care.
 
+He stepped further and further, breath held, straining to listen to the sounds of the night. His lantern slowly revealed the nooks between the buildings that he treaded. A family of rats. A locked door. A slow stream of blood snaking between the stones of the path. And eventually a body.
+
+"Richter!", Toren cried as he fell to his knees beside his friend.
+
+"Toren?" He was pale, and the shirt beneath his gambeson was stained red. Slashes adorned his side.
+
+"Let's get you up first," Toren said as he set the lantern and his spear down beside the older guardsman. He tore cut off a piece of his sleeve and bundled it up as tightly as he could with shaking hands.
+
+"Push as hard as you can into the wound, my father told me that if you—", Toren was cut off as Richter's attention shot into the darkness behind him. Before Richter could warn him, Toren jumped instinctively to the side, rolling just fast enough for something to slam into the back of his armour.
+
+He landed hard against the wall, winded, but adrenaline had long since set in. Before he could even look in the direction of what had attacked him, Toren grabbed his spear from beside Richter and stabbed blindly into the darkness.
+
+His thrust met a tough layer of flesh and ground against bone beneath the creature's skin. It hissed at him, long teeth and pale flesh was all that was visible in the lantern light. It grabbed the spear and yanked it from Toren's grasp, inspecting it with sunken red eyes.
+
+The creature was distracted. Toren had a moment to run, he could still survive this.
+
+Richter began to crawl, towards the light, away as death loomed over him.
+
+Toren's hand found the hilt of his sidesword. Someone had to care.
+
+He raised the weapon over his head and brought it down with all the might he could muster. The creature simply put his spear through his own gut.
+
+Toren was not wiser than his father, and now he would die thinking that a sidesword gave him enough strength to make a difference.
+
+>[!Note] Should this go later (another Toren section?)
+>Don't want to revisit toren again really
+
+The alleyway exploded into light as Richter shattered the lantern against the creatures head. Flames bathed its hideous form as it stumbled back from the two guardsmen. It crashed through the darkness on too-long legs, filthy fur-like patches on its shoulder catching alight as oil soaked its body. It screeched in an abyssal voice and turned and ran into the night as Richter and Toren both collapsed against the wall. 
+
+Alone, and in darkness.
+
+>[!Note]
+>Foreshadow the lantern being full full of oil
+
+---
+# Bull 2
+Sweat poured across the Bull's body. His left eye wouldn't open. He knew his skin had been stained a hideous black-purple just beneath his right armpit where he was sure he had cracked a rib. Blood soaked the arena floor, and he had to breathe through his mouth to avoid drinking from the torrent coming from his, once again, broken nose.
+
+The Bull had never had an opponent like tonight. He felt as if he had fought six men, not six rounds.
+
+And he _loved_ it.
+
+Thrill surged through him. Every trick he tried against the challenger was either countered immediately or adapted to. Speed and strength only worked for so long. He stomped, aiming for his opponent's feet, but his stance reversed like lightning. The Bull ducked beneath the counter strike and sought out his opponents stomach with a hook. The challenger spun somehow, despite his footing, and it was like trying to punch a feather as it fell. He _bent_ around the blow and pushed himself away, opening up space between the two fighters.
+
+The Bull roared, pushing out blow after blow, hoping _something_ would hit. The challenger danced around each of them. Strikes came in return during the openings the Bull left. Pats against shoulder and forearm, but nothing that could leave any damage. Until he stumbled forwards slightly, and an elbow sunk his jaw into his neck. The crowd screamed, and for the first time in his career, the Bull fell to his knees.
+
+He explored his mouth with his tongue, but he couldn't find the tooth he had just lost. He must have swallowed it. He grinned, spat blood, and rose again. The world spun as he did, but it didn't matter. He was _alive_.
+
+This time the challenger advanced, and the Bull was read. Instead of blocking the strike that came, he grabbed the challenger's wrist and elbow in a vice, locking him in place. The two could do nothing but growl at one another, eyes locked. 
+
+Then the challenger did something with his hands. The Bull didn't quite see it properly, but he crossed forearms and pushed downwards and curled his writs in just right way so as to leave the two separated. The bull tried grabbing again, and the challenger repeated the motion perfectly, leaving about half a meter between the two fighters.
+
+"You're dancing around me now, boy," the Bull growled. "Come, let us finish this."
+
+The two locked eyes and readied themselves as a scream of terror pierced the cheering of the cellar. The shadows lengthened, and the ceiling exploded inwards.
+
+---
+# Challenger 2? or maybe Gunter 2
