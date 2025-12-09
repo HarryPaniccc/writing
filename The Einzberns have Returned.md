@@ -3,23 +3,15 @@ tags:
   - Short
 ---
 # Gunter 1
- >[!Note]
->Maybe put a short ominous prelude here.
+The street through Gunter's home of Novest had grown empty as the sun dipped below the horizon. Fireflies lazily took flight from the marshes surrounding the wall of the town, adventuring into the boundaries of civilisation. The sounds of frogs grew dimmer as Gunter left his home and made his way deeper towards the town centre for the evening. He nodded to what few guardsmen remained as they lit lanterns along the streets, warding off the hunger of the spring dusk. Gunter's only real companion was the sound of his boots on cobbled stone.
 
-Sirkonos had been too quiet for too long. His mom told Gunter that the sheriff's men were expected back with their outriders any day now, that the kingdom had just been holding its breath, but Gunter thought that it must have passed out by now — its boots stolen and coin purse left an empty sack at the side of the road, ignored by passerbys with upturned noses. No one cared for Sirkonos anymore. At least Gunter didn't.
+The Kingdom of Sirkonos had been too quiet for too long. More missing posters decorated the notice board this week, and the sheriff still had not returned with his outriders a month after leaving for the wilds. The crown sent no help to secure their roads. Any traders that found their way to Novest did their best to profit and leave. No one cared for Sirkonos anymore, and Gunter didn't either.
 
->[!Note]
->I suspect more descriptions of surroundings around here will fit. The fireflies is a big jump
+Solitude found him as the light fled. The small alleys of Novest were never crowded after sunset. The silence was not the kind one sought for quiet reminiscence. It was the cold solitude felt by a lamb before it was taken by the wolves. Tonight, however, it brought anticipation. Once a month, Gunter could walk _towards_ something, and tonight was that night.
 
-He could barely make out the sound of the marsh frogs as he walked through the cobbled stone streets of Novest. Besides fireflies, the small alleys of his home town were never crowded after the sun went down. People wanted to avoid the solitude. This was not the kind one sought out for quiet reminiscence. This was the solitude felt by a lamb before it was taken by the wolves. Gunter knew well to avoid it. It just reminded him about what was happening around the kingdom. Disappearances in Diredahl. Rioting in Keldmire. And no one had ridden from Leerehalt in a year. None of that could touch tonight though.
+Walking past wooden townhouses, he listened for the signs of the evening's events. As always the sounds of carousing and jeering could be heard from down the road coming from a two-storied inn. He greeted the few off duty guards that sat outside and made his way into the nearly empty bar. Nodding to the barkeeper, he 
 
->[!Note]
->The end sentence of this paragraph is bad
->Show don't tell
-
-Tonight was fight night. And it reminded Gunter that he was alive.
-
-Walking past wooden townhouses, he listened for the signs of the evening's events. As always the sounds of carousing and jeering could be heard from down the road coming from a two-storied inn, but the strange sight of a nearly empty bar greeted him as he made his way through the front doors. He nodded to the barkeeper who had drawn the short straw for that month, made his way through the empty tables, and pushed his way down what his father would have called a secret staircase, but what was now the worst kept secret club this side of the Eastern Wastes.
+but the strange sight of a nearly empty bar greeted him as he made his way through the front doors. He nodded to the barkeeper who had drawn the short straw for that month, made his way through the empty tables, and pushed his way down what his father would have called a secret staircase, but what was now the worst kept secret club this side of the Eastern Wastes.
 
 >[!Note]
 >Barkeeper sentence has to change
