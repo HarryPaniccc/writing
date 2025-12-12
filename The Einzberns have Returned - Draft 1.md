@@ -7,30 +7,27 @@ The street through Gunter's home of Novest had grown empty as the sun dipped bel
 
 The Kingdom of Sirkonos had been too quiet for too long. More missing posters decorated the notice board this week, and the sheriff still had not returned with his outriders a month after leaving for the wilds. The crown sent no help to secure their roads. Any traders that found their way to Novest did their best to profit and leave. No one cared for Sirkonos anymore, and Gunter didn't either.
 
-Solitude found him as the light fled. The small alleys of Novest were never crowded after sunset. The silence was not the kind one sought for quiet reminiscence. It was the cold solitude felt by a lamb before it was taken by the wolves. Tonight, however, it brought anticipation. Once a month, Gunter could walk _towards_ something, and tonight was that night.
+Solitude found him as the light fled. The small alleys of Novest were never crowded after sunset. The silence was not the kind one sought for quiet reminiscence. It was the cold solitude felt by a lamb before it was taken by the wolves. Tonight, however, it brought anticipation. Once a month, Gunter could walk _towards_ something, and tonight was that night. Fight night.
 
-Walking past wooden townhouses, he listened for the signs of the evening's events. As always the sounds of carousing and jeering could be heard from down the road coming from a two-storied inn. He greeted the few off duty guards that sat outside and made his way into the nearly empty bar. Nodding to the barkeeper, he 
+>[!Note] Probably need to edit these above three as well. More ominous?
 
-but the strange sight of a nearly empty bar greeted him as he made his way through the front doors. He nodded to the barkeeper who had drawn the short straw for that month, made his way through the empty tables, and pushed his way down what his father would have called a secret staircase, but what was now the worst kept secret club this side of the Eastern Wastes.
+Walking past wooden townhouses, he listened for the signs of the evening's events. As always the sounds of carousing and jeering could be heard from down the road coming from a two-storied inn. He greeted the few off duty guards that sat outside and made his way into the nearly empty bar. Nodding to the barkeeper, Gunter followed the sounds of a crowd through what was once a secret staircase, and entered what was the now worst kept secret this side of the Eastern Wastes.
 
->[!Note]
->Barkeeper sentence has to change
-
-It was not long before he was eagerly squeezing his way through a crowded, merry room. In the dim candle light of the shell of a cellar-turned-fighting ring, polished mugs of beer were passed around and silver pieces were exchanged for the evening's bets. From a hundred different conversations the echoes of compliments, boasts and laughter became muddled with the sounds of a bard's viol against the dark wooden walls of the room. Smiles, actual smiles, shone from the faces of men and women who had been forced to give up their trades, go days without meals, or bury loved ones in the past months.
+It was not long before he was eagerly squeezing his way through a crowded, merry room. In the dim candle light of a cellar-turned-fighting ring, polished mugs of beer were passed around and silver pieces were exchanged for the evening's bets. From a hundred different conversations the echoes of compliments, boasts and laughter became muddled with the sounds of a bard's viol against the dark wooden walls of the room. Smiles, actual smiles, shone from the faces of men and women who had been forced to give up their trades, go days without meals, or bury loved ones in the past months.
 
 Here, Gunter thought as he peered through the waists of his countrymen, life finally returned to the kingdom. Here, there was a Sirkonos worth fighting for, not just pathways ladened with corpses stretching between the dying roots of civilization. There were no Kronesguard to protect you from the ghouls that wandered the night here in Novest. No temples to ward off the hauntings, and certainly no hunters to profit off of the sheriff's latest bounties. Despite the low stone wall and the sturdy archer towers surrounding it, his home was as unprotected as the rest of the kingdom, and though he would never admit it, that frustrated Gunter. The wolves had already made lambs of three good men in the last two months. No one knew if they would be the next one lost to the night. And, despite the smiles and the drinks and the music, that tension and fear of what stalked the night hung over the basement full of tradesmen like a guillotine ready to fall.
 
-But that was why they met. What they lacked in safety, the good people of Novest made up for in spite. If they were going to be helpless, the least they could do is be helpless and entertained.
+But that was why they met. What they lacked for in safety, the good people of Sirkonos made up for in spite. If they were going to be helpless, the least they could do is be helpless and entertained.
 
-An hour into Gunter's mugs and passing between various different groups, bar hands began to clear a space in the center of the room. Some of the guests even eagerly offered their help. The carpet was rolled away to reveal deeply packed sand, stained brown and black.
+An hour into Gunter's mugs and passing between various different groups, bar hands began to clear a space in the centre of the room. Some of the guests even eagerly offered their help. The carpet was rolled away to reveal deeply packed sand, stained brown and black.
 
-The bouts began. The sound of fist-on-flesh was lost amidst the shouts from the onlookers. The first fights of the evening were to warmup the crowd, and Gaelen said it was good luck to wet the sand before the larger fights. Gunter always paid close attention to these, despite their low stakes. He had made a whole mint by keeping his eyes on the promising newcomers. It had been a shame when Gaelen had been found in a ditch with a hole in his stomach the previous month...
+The bouts began. The sound of fist-on-flesh was lost amidst the shouts from the onlookers. The first fights of the evening were to warmup the crowd, and Gaelen said it was good luck to wet the sand before the larger fights. Gunter always paid close attention to these, despite their low stakes. He and Gaelan had made a whole mint by keeping his eyes on the promising newcomers. And Gaelen had been found in a ditch with a hole in his stomach the previous month...
 
 The sound of a body hitting the ground shook Gunter from his stupor. The cheers that followed banished the feeling in his gut. The loss of Gaelen was still fresh in Gunter's mind, and Gaelen was a fine boxer, but new to town and unwilling to listen to the warnings. So what if he went out alone? There were other youths looking to test their metal in the ring and keep those who remained cheering a while longer.
 
-Silver was passed around as cold water was washed over the victor of the last fight, and Gunter pocketed a few pieces as the loser was seen to by the town's surgeon in case of any real injury. As conversation threatened to steal the crowd from his grasp, the ringmaster, Roahn, tightened his grip and announced the next bout.
+Silver was passed around as cold water was washed over the victor of the last fight, and Gunter pocketed a few pieces as the loser was seen to by the town's surgeon, in case of any real injury. As conversation threatened to steal the crowd from his grasp, the ringmaster, Roahn, tightened his grip and announced the next bout.
 
-There it is friends," Roahn called to the crowd. "I would not have bet on such a grudge match between two seasoned fighters, but when a traveler hailing all the way from Pyleas tells you he wishes to test his mettle against an up-and-coming, you do not ignore him, _especially_ when he is built like that!"
+"There it is friends," Roahn called to the crowd. "I would not have bet on such a grudge match between two seasoned fighters, but when a traveler hailing all the way from Pyleas tells you he wishes to test his mettle against an up-and-coming, you do not ignore him, _especially_ when he is built like that!"
 
 The crowd replied with a roar that was quelled by a raise of the ringmaster's spindly hand.
 
@@ -47,7 +44,7 @@ The younger man was shorter than him, with a shorter reach and uncut black, dust
 >[!Note]
 >Use the opportunity to introduce Roahn more than just his hair colour
 
-The rat-like ringmaster did well in introducing the younger man, mostly summarising what The Bull already knew. He was from Keldmire, the walled city South West of Mount Ethris in the central Sirkonos. The word out of Keldmire recently had been tales of horror. Gangs seizing the city, the previous lords and sheriff being put to death, and the Kronesguard not doing a thing about it. It was likely the Bull's opponent was a deserter, unwilling to sit by wearing the mark of the King's justice on your shoulder all the while doing nothing as monsters seized your home. Desertion was an executable offense, the Kronesguard is a tightly run military, but the Bull could respect a man willing to abandon a path of false ideals and try to find his own way in a world run by blind men.
+The rat-like ringmaster did well in introducing the younger man, mostly summarising what The Bull already knew. He was from Keldmire, the high-walled city South West of Mount Ethris in the central Sirkonos. The word out of Keldmire recently had been tales of horror. Gangs seizing the city, the previous lords and sheriff being put to death, and the Kronesguard not doing a thing about it. It was likely the Bull's opponent was a deserter, unwilling to sit by wearing the mark of the King's justice on your shoulder all the while doing nothing as monsters seized your home. Desertion was an executable offense, the Kronesguard is a tightly run military, but the Bull could respect a man willing to abandon a path of false ideals and try to find his own way in a world run by blind men.
 
 He waited as Roahn fed the crowd what he could to draw every eye in the room. A silence formed where there was once chatter from those disinterested in fights other than the main event, and the Bull drank in that silence. It felt lately that the only time he could think was while the crowd was being worked up. There was a clarity in the moment before stepping before his neighbours, before he stopped being Bhuren the stonemason and became the Bull of Novest. The crowds' eyes will belong to him in a minute, but for now, he was the one looking at them.
 
@@ -65,12 +62,9 @@ The stone streets stretched around the old wooden buildings of the town square l
 
 Toren hated guard duty. When he was a boy he always imagined it to be glamorous. Holding a spear against the darkness beyond the walls, daring whatever prowled the marshes surrounding Novest to try and take what he protected. Like the heroes of the stories he had listened to growing up. Legends like the Einzbern monster hunters with their blades of sunlight, the Renslayer atop his dragon battling the enemies of the kingdom, and the warrior dwarves of Steinwalde. Now Toren knew the truth. There was no glory waiting for him out in the darkness. Just a death indifferent to everything about him but the meat on his bones.
 
-He completed his round for the hour and returned to the square where the rest of the guards had gathered. Though they were not permitted to join in on the fighting club while on duty, it helped that the sounds of people could be heard from a good hundred feet away from the inn. Toren checked in on the other guardsmen who were delaying their patrols or betting on a hand of cards. He took a drink from the water barrel, chatting with the pretty girl who had come to deliver the group some warm stew, and did his best not to pay any mind to the dark building at the end of the road.
+He completed his round for the hour and returned to the square where the rest of the guards had gathered. Though they were not permitted to join in on the fighting club while on duty, it helped that the sounds of people could be heard from a good hundred feet away from the inn. Toren checked in on the other guardsmen who were delaying their patrols or betting on a hand of cards. He took a drink from the water barrel and filled his lantern with as much oil as it would take, chatting with the pretty girl who had come to deliver the group some warm stew, and did his best not to pay any mind to the dark building at the end of the road.
 
 Every town in Sirkonos had a ghost house or an ancient barrow from which legends emerged, but few were actually haunted, and fewer still were young enough that people knew what the buildings were actually used for before they became folklore. The dark townhouse down the main road of Novest was one of those few cases. A few months ago, the remains of the Taurig family had been found after the sheriff had ordered the door knocked down. The night before, the neighbours had heard what they had called the sounds of someone butchering an animal, but had thought nothing of it until the scent of decay had spread along the street by the noon sun. Toren didn't have the displeasure of seeing the remains, but he knew the men who did, and they almost burned the building down. Some of them still think they should.
-
->[!Note]
->Edit the paragraph below I think. "Thats not the worst of it" is kinda lame
 
 And then, while on guard later in the week, he had seen the Taurig daughter — Selene was her name — walk down the road and into the marsh, apparently completely healthy, despite having had most of her organs removed just a few days prior, and her body buried alongside her family. The two voices within him disagreed that night. The wisdom that kept his sidesword sheathed had told him to ignore it and live another day. The hopeful child that he used to be called him a coward. He wasn't sure which one he believed.
 
@@ -137,11 +131,6 @@ But whoever that fallen spear belonged to had another chance. It was Toren. But 
 He glanced in the direction of the inn, and steeled himself for the mistake he was about to make. Praying that nothing really awaited him in the darkness ahead, Toren turned around.
 
 ---
-
-
----
->[!Note]
->Jumping ahead a bit here
 # Challenger 1
 His hair was beginning to obscure his vision, but he could not afford to wipe it away. Sweat mixed with coal was slowly dripping down his face, but in the imperfect candlelight of the fighting ring he hoped the black lines it left would go unnoticed by of the spectators. His hand had started to lose its chalk coating, so he had switched to knees and elbows. He had taken a strike on the chin that he had allowed to look a little _too_ good, but he could adapt, so he adjusted his step to be more aggressive and encourage more body shots.
 
@@ -199,9 +188,6 @@ The alleyway exploded into light as Richter shattered the lantern against the cr
 
 Alone, and in darkness.
 
->[!Note]
->Foreshadow the lantern being full full of oil
-
 ---
 # Bull 2
 Sweat poured across the Bull's body. His left eye wouldn't open. He knew his skin had been stained a hideous black-purple just beneath his right armpit where he was sure he had cracked a rib. Blood soaked the arena floor, and he had to breathe through his mouth to avoid drinking from the torrent coming from his, once again, broken nose.
@@ -225,4 +211,27 @@ Then the challenger did something with his hands. The Bull didn't quite see it p
 The two locked eyes and readied themselves as a scream of terror pierced the cheering of the cellar. The shadows lengthened, and the ceiling exploded inwards.
 
 ---
-# Challenger 2? or maybe Gunter 2
+# Gunter 2
+Paralysis swept through the cellar. Gunter was thrown off his feet as the crowd surged away from the cavity in the ceiling. It became difficult to see more than shapes as dust spread like fog through the cellar in an instant. He tried to sit up to get a better understanding of what was going on, but he was met with a searing pain in his side. He rolled over and could see a beam from above had fallen and crushed three spectators.
+
+A figure stalked forwards from the wreckage. Impossibly tall, Gunter could only make out the outlines of its legs and sharp-ended arms as it climbed over the ruined bodies of his fellow countrymen.
+
+"Demon!", someone yelled from the crowd.
+
+Panic swept the room, but the ceiling had collapsed between the crowd and the cellar entrance. Cries of terror echoed into the dust as spectators shoved one another to get away from the monster in the dim candle light. Gunter could only watch as it bent over and began to devour the crushed leg of one of the corpses.
+
+In the chaos of the basement, another figure loomed over the crowds. Someone put a hand on the Bull's shoulder to pull him away from the creature as it grew bored with its feast. The Bull turned and struck whoever tried to slow him across the jaw — the challenger — and dove for the monster.
+
+The creature reared a clawed arm forwards and skewered the boxer in his shoulder, throwing him against one of the beams of the room, and knocking a lantern to the ground. The glass shattered, and a yellow oil flame spread around the ring, illuminating the challenger who had found his feet again in the centre of it, and the swathe of blood that had painted the ground from the start of the night.
+
+Gunter could see him clearly. The demon had his eyes fixated on the challenger like an animal caged and challenged. Where all others in the basement had reacted with instinct — fight or flight — this fighter, bruised and beaten, yet seemingly completely fine, stood against it, unfazed.
+
+Who *was* this man?
+
+---
+# Challenger 2
+He combed the fingers of his left hand through his hair, wiping away the coal dust and turning it from black to white. His hands had lost their coating of chalk, and in the light of the oil flame the greyness of the skin and the runes that extended from fingertip to elbow of his left hand could be seen clearly. His breathing had relaxed as though he had not been strained at all in the last hour. He removed the glass eye from his left socket, and replaced it with an eyepatch from his pocket, along with a bracelet set with six amber crystals.
+
+Kanan Einzbern summoned a blade from thin air. The steel of the weapon ignited with a blue flame as the runes along his left arm began to surge with that same power. He set his stance, blade raised against the darkness, light dancing around him, and the people of Novest knew that they would be safe. That Sirkonos would be alright. The rumours were true.
+
+The Einzberns have Returned.
