@@ -8,31 +8,45 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d34bfdbb7be4eb73",
+            "id": "ea7acfb957327845",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Einzberns have Returned - Draft 1.md",
+                "file": "Landing Page.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Einzberns have Returned - Draft 1"
+              "title": "Landing Page"
             }
           },
           {
-            "id": "1ecd4238ebe307b7",
+            "id": "58a1b281d877ff05",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Einzberns have Returned - Draft 2.md",
+                "file": "Youtube Channel RENAME.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Einzberns have Returned - Draft 2"
+              "title": "Youtube Channel RENAME"
+            }
+          },
+          {
+            "id": "aed00cc00db2e8be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Orcs are Monsters.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Orcs are Monsters"
             }
           }
         ],
@@ -50,7 +64,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4e7175352225ab3f",
+            "id": "7d6e5183f3b7c82f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -60,6 +74,16 @@
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
+            }
+          },
+          {
+            "id": "755b587df4752652",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           },
           {
@@ -77,16 +101,6 @@
               },
               "icon": "lucide-search",
               "title": "Search"
-            }
-          },
-          {
-            "id": "755b587df4752652",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
             }
           }
         ]
@@ -157,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Einzberns have Returned - Draft 2.md",
+                "file": "The Einzberns have Returned - Working Outline Document.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of The Einzberns have Returned - Draft 2"
+              "title": "Outline of The Einzberns have Returned - Working Outline Document"
             }
           }
         ],
@@ -171,25 +185,28 @@
       }
     ],
     "direction": "horizontal",
-    "width": 285.5
+    "width": 285.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "1ecd4238ebe307b7",
+  "active": "58a1b281d877ff05",
   "lastOpenFiles": [
-    "The Einzberns have Returned - Draft 1.md",
-    "The Einzberns have Returned - Draft 2.md",
-    "Vanguard Writing.md",
+    "Orcs are Monsters.md",
+    "Youtube Channel RENAME.md",
     "Landing Page.md",
+    "The Einzberns have Returned - Working Outline Document.md",
+    "The Einzberns have Returned - Draft 1.md",
+    "Vanguard Writing.md",
+    "The Einzberns have Returned - Draft 2.md",
     "Welcome.md"
   ]
 }

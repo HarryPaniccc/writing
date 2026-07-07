@@ -1,6 +1,7 @@
 ---
 tags:
   - Short
+  - Draft
 ---
 # Gunter 1
 The street through Gunter's home of Novest had grown empty as the sun dipped below the horizon. Fireflies lazily took flight from the marshes surrounding the wall of the town, adventuring into the boundaries of civilisation. The sounds of frogs grew dimmer as Gunter left his home and made his way deeper towards the town centre for the evening. He nodded to what few guardsmen remained as they lit lanterns along the streets, warding off the hunger of the spring dusk. Gunter's only real companion was the sound of his boots on cobbled stone.
@@ -52,7 +53,7 @@ He saw the crowd before him, and in the dim candlelight, Bhuren saw what was mis
 
 Roahn finished announcing the Bull's opponent, and the lad had begun dancing from one foot to the next. He was clearly anxious about the fight, constantly glancing to the crowd. He seemed to be making a point of not moving his hair from his face though. That didn't mean he would be underestimated. Sometimes fear is all it takes to bring out the real killer within someone.
 
-As the ringmaster began to announce the arrival of the champion, the Bull made his way towards the centre of the room. Slowly the crowd parted before him, like a vast gate being opened. The pathway to the bloody sandpit ahead seemed to grow with each step the Bull took. Roahn's voice, straining to be heard, became lost in the swell of anticipation from the crowd and the buzz that grew to meet it within the Bull's head. He flexed his fingers and made fists, chalk trailing behind him. He cracked his neck, more for the crowd than for himself, and stretched his shoulders, showing his bear-chested bulk to his youthful opponent in a display of intimidation and showmanship. He planted himself in the ring, boots dug into the pulp of blood and sand, arms raised to the sides of his head, and a broken-toothed grin spread across his face. His friends could forget their troubles for a while longer. He had work to do. The challenger  mirrored his stance, the excess of chalk making his hands white and falling to the ground in flakes like winter snow.
+As the ringmaster began to announce the arrival of the champion, the Bull made his way towards the centre of the room. Slowly the crowd parted before him, like a vast gate being opened. The pathway to the bloody sandpit ahead seemed to grow with each step the Bull took. Roahn's voice, straining to be heard, became lost in the swell of anticipation from the crowd and the buzz that grew to meet it within the Bull's head. He flexed his fingers and made fists, chalk trailing behind him. He cracked his neck, more for the crowd than for himself, and stretched his shoulders, showing his bear-chested bulk to his youthful opponent in a display of intimidation and showmanship. He planted himself in the ring, boots dug into the pulp of blood and sand, arms raised to the sides of his head, and a broken-toothed grin spread across his face. His friends could forget their troubles for a while longer. He had work to do. The challenger mirrored his stance, the excess of chalk making his hands white and falling to the ground in flakes like winter snow.
 
 They began.
 
